@@ -112,8 +112,6 @@ export default function HomePage() {
                 </Button>
               </CardContent>
             </Card>
-        </div>
-      </section>
 
             <Card className="relative border-accent">
               <CardHeader className="text-center">
@@ -153,6 +151,8 @@ export default function HomePage() {
               <Link href="/pricing">Build Your Plan</Link>
             </Button>
           </div>
+        </div>
+      </section>
       {/* Social Proof */}
       <section className="py-16 bg-secondary/30">
         <div className="container mx-auto px-4">
